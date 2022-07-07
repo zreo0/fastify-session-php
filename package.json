@@ -1,5 +1,5 @@
 {
-  "name": "@fastify/session",
+  "name": "fastify-session-php",
   "version": "9.0.0",
   "description": "a session plugin for fastify",
   "main": "lib/fastifySession.js",

@@ -1,5 +1,6 @@
-# @fastify/session
-
+# fastify-session-php
+> This is a fork of [@fastify/session](https://github.com/fastify/session), to support phpsession => nodejs
+> 
 ![CI](https://github.com/fastify/session/workflows/CI/badge.svg)
 [![NPM version](https://img.shields.io/npm/v/@fastify/session.svg?style=flat)](https://www.npmjs.com/package/@fastify/session)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://standardjs.com/)
